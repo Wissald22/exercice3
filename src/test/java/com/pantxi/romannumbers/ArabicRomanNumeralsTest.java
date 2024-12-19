@@ -11,7 +11,7 @@ public class ArabicRomanNumeralsTest {
         /*assertEquals("II", ArabicRomanNumerals.convert1_2_3(2));
        assertEquals("X", ArabicRomanNumerals.convert_nbrxdix(10));
        assertEquals("IX", ArabicRomanNumerals.convert_unite(9));*/
-        assertEquals("IX", ArabicRomanNumerals.convertnombre(49));
+        assertEquals("VXIX", ArabicRomanNumerals.convertnombre(49));
 
     }
 }
